@@ -15,5 +15,9 @@
   "dependencies": {
       "debug": "",
       "html-truncate": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/helq/metalsmith-excerptor.git"
   }
 }
